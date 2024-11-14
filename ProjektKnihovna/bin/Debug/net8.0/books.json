@@ -1,0 +1,974 @@
+[
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "ISBN": "978-0061120084",
+    "Year": 1960,
+    "Genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "IsAvailable": false
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "ISBN": "978-0451524935",
+    "Year": 1949,
+    "Genres": [
+      "Fiction",
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "ISBN": "978-0141439518",
+    "Year": 1813,
+    "Genres": [
+      "Fiction",
+      "Romance"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "ISBN": "978-0743273565",
+    "Year": 1925,
+    "Genres": [
+      "Fiction",
+      "Classic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Moby-Dick",
+    "Author": "Herman Melville",
+    "ISBN": "978-1503280786",
+    "Year": 1851,
+    "Genres": [
+      "Fiction",
+      "Adventure",
+      "Classic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "ISBN": "978-0316769488",
+    "Year": 1951,
+    "Genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0547928227",
+    "Year": 1937,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0544003415",
+    "Year": 1954,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Author": "J.K. Rowling",
+    "ISBN": "978-0590353427",
+    "Year": 1997,
+    "Genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "IsAvailable": false
+  },
+  {
+    "Title": "The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",
+    "Author": "C.S. Lewis",
+    "ISBN": "978-0064404997",
+    "Year": 1950,
+    "Genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "ISBN": "978-0060850524",
+    "Year": 1932,
+    "Genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "ISBN": "978-0316769488",
+    "Year": 1951,
+    "Genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Diary of a Young Girl",
+    "Author": "Anne Frank",
+    "ISBN": "978-0553296983",
+    "Year": 1947,
+    "Genres": [
+      "Biography",
+      "Non-fiction"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "ISBN": "978-0061122415",
+    "Year": 1988,
+    "Genres": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Shining",
+    "Author": "Stephen King",
+    "ISBN": "978-0307743657",
+    "Year": 1977,
+    "Genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Picture of Dorian Gray",
+    "Author": "Oscar Wilde",
+    "ISBN": "978-0141439570",
+    "Year": 1890,
+    "Genres": [
+      "Fiction",
+      "Classic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Frankenstein",
+    "Author": "Mary Shelley",
+    "ISBN": "978-0486282114",
+    "Year": 1818,
+    "Genres": [
+      "Fiction",
+      "Horror",
+      "Science Fiction"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Girl on the Train",
+    "Author": "Paula Hawkins",
+    "ISBN": "978-1594633669",
+    "Year": 2015,
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Outsiders",
+    "Author": "S.E. Hinton",
+    "ISBN": "978-0142407332",
+    "Year": 1967,
+    "Genres": [
+      "Fiction",
+      "Young Adult"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Sapiens: A Brief History of Humankind",
+    "Author": "Yuval Noah Harari",
+    "ISBN": "978-0062316110",
+    "Year": 2011,
+    "Genres": [
+      "Non-fiction",
+      "History"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Divine Comedy",
+    "Author": "Dante Alighieri",
+    "ISBN": "978-0140448955",
+    "Year": 1320,
+    "Genres": [
+      "Poetry",
+      "Classic",
+      "Epic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Girl with the Dragon Tattoo",
+    "Author": "Stieg Larsson",
+    "ISBN": "978-0307949486",
+    "Year": 2005,
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Secret Garden",
+    "Author": "Frances Hodgson Burnett",
+    "ISBN": "978-1503210901",
+    "Year": 1911,
+    "Genres": [
+      "Children's",
+      "Fiction"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Little Women",
+    "Author": "Louisa May Alcott",
+    "ISBN": "978-0142408766",
+    "Year": 1868,
+    "Genres": [
+      "Fiction",
+      "Classic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Giver",
+    "Author": "Lois Lowry",
+    "ISBN": "978-0544336261",
+    "Year": 1993,
+    "Genres": [
+      "Young Adult",
+      "Dystopian"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Handmaid's Tale",
+    "Author": "Margaret Atwood",
+    "ISBN": "978-0385490818",
+    "Year": 1985,
+    "Genres": [
+      "Dystopian",
+      "Fiction"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Hunger Games: Catching Fire",
+    "Author": "Suzanne Collins",
+    "ISBN": "978-0439027007",
+    "Year": 2009,
+    "Genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Kite Runner",
+    "Author": "Khaled Hosseini",
+    "ISBN": "978-1594631900",
+    "Year": 2003,
+    "Genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Brothers Karamazov",
+    "Author": "Fyodor Dostoevsky",
+    "ISBN": "978-0374528379",
+    "Year": 1880,
+    "Genres": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Twilight Saga: Twilight",
+    "Author": "Stephenie Meyer",
+    "ISBN": "978-0316015844",
+    "Year": 2005,
+    "Genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The War of the Worlds",
+    "Author": "H.G. Wells",
+    "ISBN": "978-0451530660",
+    "Year": 1898,
+    "Genres": [
+      "Science Fiction",
+      "Classic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "ISBN": "978-0439023528",
+    "Year": 2008,
+    "Genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Catching Fire",
+    "Author": "Suzanne Collins",
+    "ISBN": "978-0439027007",
+    "Year": 2009,
+    "Genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Mockingjay",
+    "Author": "Suzanne Collins",
+    "ISBN": "978-0439023529",
+    "Year": 2010,
+    "Genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Girl on the Train",
+    "Author": "Paula Hawkins",
+    "ISBN": "978-1594633669",
+    "Year": 2015,
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Gone Girl",
+    "Author": "Gillian Flynn",
+    "ISBN": "978-0307588371",
+    "Year": 2012,
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Sharp Objects",
+    "Author": "Gillian Flynn",
+    "ISBN": "978-0307341556",
+    "Year": 2006,
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Big Little Lies",
+    "Author": "Liane Moriarty",
+    "ISBN": "978-0399161061",
+    "Year": 2014,
+    "Genres": [
+      "Fiction",
+      "Mystery"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Husband's Secret",
+    "Author": "Liane Moriarty",
+    "ISBN": "978-0399163645",
+    "Year": 2013,
+    "Genres": [
+      "Fiction",
+      "Mystery"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Silent Patient",
+    "Author": "Alex Michaelides",
+    "ISBN": "978-1250301697",
+    "Year": 2019,
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Where the Crawdads Sing",
+    "Author": "Delia Owens",
+    "ISBN": "978-0735219113",
+    "Year": 2018,
+    "Genres": [
+      "Fiction",
+      "Mystery"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Night Circus",
+    "Author": "Erin Morgenstern",
+    "ISBN": "978-0385534642",
+    "Year": 2011,
+    "Genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Circe",
+    "Author": "Madeline Miller",
+    "ISBN": "978-0316556347",
+    "Year": 2018,
+    "Genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Song of Achilles",
+    "Author": "Madeline Miller",
+    "ISBN": "978-0062060611",
+    "Year": 2011,
+    "Genres": [
+      "Fiction",
+      "Mythology"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Name of the Wind",
+    "Author": "Patrick Rothfuss",
+    "ISBN": "978-0756404741",
+    "Year": 2007,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Wise Man's Fear",
+    "Author": "Patrick Rothfuss",
+    "ISBN": "978-0756404734",
+    "Year": 2011,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Final Empire",
+    "Author": "Brandon Sanderson",
+    "ISBN": "978-0765377133",
+    "Year": 2006,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Well of Ascension",
+    "Author": "Brandon Sanderson",
+    "ISBN": "978-0765377134",
+    "Year": 2007,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Hero of Ages",
+    "Author": "Brandon Sanderson",
+    "ISBN": "978-0765311785",
+    "Year": 2008,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Mistborn: Secret History",
+    "Author": "Brandon Sanderson",
+    "ISBN": "978-0765395274",
+    "Year": 2016,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Dune",
+    "Author": "Frank Herbert",
+    "ISBN": "978-0441013593",
+    "Year": 1965,
+    "Genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "ISBN": "978-0439064873",
+    "Year": 1998,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter and the Prisoner of Azkaban",
+    "Author": "J.K. Rowling",
+    "ISBN": "978-0439136365",
+    "Year": 1999,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Author": "J.K. Rowling",
+    "ISBN": "978-0439139601",
+    "Year": 2000,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter and the Order of the Phoenix",
+    "Author": "J.K. Rowling",
+    "ISBN": "978-0439358071",
+    "Year": 2003,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter and the Half-Blood Prince",
+    "Author": "J.K. Rowling",
+    "ISBN": "978-0439785969",
+    "Year": 2005,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Harry Potter and the Deathly Hallows",
+    "Author": "J.K. Rowling",
+    "ISBN": "978-0545139700",
+    "Year": 2007,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "ISBN": "978-0316769488",
+    "Year": 1951,
+    "Genres": [
+      "Fiction",
+      "Classic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "ISBN": "978-0061120084",
+    "Year": 1960,
+    "Genres": [
+      "Fiction",
+      "Classic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "ISBN": "978-0451524935",
+    "Year": 1949,
+    "Genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "ISBN": "978-0060850524",
+    "Year": 1932,
+    "Genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Road",
+    "Author": "Cormac McCarthy",
+    "ISBN": "978-0307387134",
+    "Year": 2006,
+    "Genres": [
+      "Fiction",
+      "Post-apocalyptic"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0345339683",
+    "Year": 1937,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0618574940",
+    "Year": 1954,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0618574957",
+    "Year": 1954,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0618574964",
+    "Year": 1955,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "A Game of Thrones",
+    "Author": "George R.R. Martin",
+    "ISBN": "978-0553103540",
+    "Year": 1996,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "A Clash of Kings",
+    "Author": "George R.R. Martin",
+    "ISBN": "978-0553108033",
+    "Year": 1998,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "A Storm of Swords",
+    "Author": "George R.R. Martin",
+    "ISBN": "978-0553106633",
+    "Year": 2000,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Fellowship of the Ring",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0618574940",
+    "Year": 1954,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Two Towers",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0618574957",
+    "Year": 1954,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Return of the King",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0618574964",
+    "Year": 1955,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Silmarillion",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0395489314",
+    "Year": 1977,
+    "Genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Children of Húrin",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0618640141",
+    "Year": 2007,
+    "Genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "ISBN": "978-0345339683",
+    "Year": 1937,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Night Watch",
+    "Author": "Terry Pratchett",
+    "ISBN": "978-0061020708",
+    "Year": 2002,
+    "Genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Guards! Guards!",
+    "Author": "Terry Pratchett",
+    "ISBN": "978-0552132232",
+    "Year": 1989,
+    "Genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Colour of Magic",
+    "Author": "Terry Pratchett",
+    "ISBN": "978-0062225679",
+    "Year": 1983,
+    "Genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Reaper Man",
+    "Author": "Terry Pratchett",
+    "ISBN": "978-0061020708",
+    "Year": 1991,
+    "Genres": [
+      "Fantasy",
+      "Humor"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Good Omens",
+    "Author": "Neil Gaiman, Terry Pratchett",
+    "ISBN": "978-0060853969",
+    "Year": 1990,
+    "Genres": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "American Gods",
+    "Author": "Neil Gaiman",
+    "ISBN": "978-0380789027",
+    "Year": 2001,
+    "Genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Good Omens",
+    "Author": "Neil Gaiman, Terry Pratchett",
+    "ISBN": "978-0060853969",
+    "Year": 1990,
+    "Genres": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Neverwhere",
+    "Author": "Neil Gaiman",
+    "ISBN": "978-0380789010",
+    "Year": 1996,
+    "Genres": [
+      "Fantasy",
+      "Urban Fantasy"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Coraline",
+    "Author": "Neil Gaiman",
+    "ISBN": "978-0064472098",
+    "Year": 2002,
+    "Genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "Stardust",
+    "Author": "Neil Gaiman",
+    "ISBN": "978-0755322804",
+    "Year": 1999,
+    "Genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Ocean at the End of the Lane",
+    "Author": "Neil Gaiman",
+    "ISBN": "978-0062255655",
+    "Year": 2013,
+    "Genres": [
+      "Fantasy",
+      "Fiction"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Graveyard Book",
+    "Author": "Neil Gaiman",
+    "ISBN": "978-0060530921",
+    "Year": 2008,
+    "Genres": [
+      "Fantasy",
+      "Children's"
+    ],
+    "IsAvailable": true
+  },
+  {
+    "Title": "The Sandman: Preludes and Nocturnes",
+    "Author": "Neil Gaiman",
+    "ISBN": "978-1401246587",
+    "Year": 1991,
+    "Genres": [
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "IsAvailable": true
+  }
+]

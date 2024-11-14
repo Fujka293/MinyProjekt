@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\source\\repos\\ProjektKnihovna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58417B2C-B151-4E25-91BF-CF53702B0E18}|ProjektKnihovna\\ProjektKnihovna.csproj|c:\\users\\jakub\\source\\repos\\projektknihovna\\projektknihovna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58417B2C-B151-4E25-91BF-CF53702B0E18}|ProjektKnihovna\\ProjektKnihovna.csproj|solutionrelative:projektknihovna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58417B2C-B151-4E25-91BF-CF53702B0E18}|ProjektKnihovna\\ProjektKnihovna.csproj|c:\\users\\jakub\\source\\repos\\projektknihovna\\projektknihovna\\projektknihovna.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{58417B2C-B151-4E25-91BF-CF53702B0E18}|ProjektKnihovna\\ProjektKnihovna.csproj|solutionrelative:projektknihovna\\projektknihovna.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjektKnihovna",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProjektKnihovna\\ProjektKnihovna\\ProjektKnihovna.csproj",
+              "RelativeDocumentMoniker": "ProjektKnihovna\\ProjektKnihovna.csproj",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProjektKnihovna\\ProjektKnihovna\\ProjektKnihovna.csproj",
+              "RelativeToolTip": "ProjektKnihovna\\ProjektKnihovna.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T17:17:05.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ProjektKnihovna\\ProjektKnihovna\\Program.cs",
+              "RelativeDocumentMoniker": "ProjektKnihovna\\Program.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ProjektKnihovna\\ProjektKnihovna\\Program.cs",
+              "RelativeToolTip": "ProjektKnihovna\\Program.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAEwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:59:13.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

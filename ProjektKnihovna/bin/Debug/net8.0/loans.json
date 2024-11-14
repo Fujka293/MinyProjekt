@@ -1,0 +1,69 @@
+[
+  {
+    "BorrowedBook": {
+      "Title": "Harry Potter and the Sorcerer's Stone",
+      "Author": "J.K. Rowling",
+      "ISBN": "978-0590353427",
+      "Year": 1997,
+      "Genres": [
+        "Fantasy",
+        "Children's"
+      ],
+      "IsAvailable": true
+    },
+    "Borrower": {
+      "FirstName": "Jirí",
+      "LastName": "Novák",
+      "LibraryCardNumber": "10-2045"
+    },
+    "BorrowedDate": "2024-11-14T08:10:28.8148759+01:00",
+    "ReturnedDate": "2024-11-14T08:10:32.8328746+01:00",
+    "LoanHistory": [
+      "Returned Book: Harry Potter and the Sorcerer's Stone by Jirí Novák, Returned Date: 11/14/2024 8:10:32 AM"
+    ]
+  },
+  {
+    "BorrowedBook": {
+      "Title": "Harry Potter and the Sorcerer's Stone",
+      "Author": "J.K. Rowling",
+      "ISBN": "978-0590353427",
+      "Year": 1997,
+      "Genres": [
+        "Fantasy",
+        "Children's"
+      ],
+      "IsAvailable": true
+    },
+    "Borrower": {
+      "FirstName": "Jirí",
+      "LastName": "Novák",
+      "LibraryCardNumber": "10-2045"
+    },
+    "BorrowedDate": "2024-11-14T08:35:11.5945502+01:00",
+    "ReturnedDate": "2024-11-14T08:47:43.4211995+01:00",
+    "LoanHistory": [
+      "Returned Book: Harry Potter and the Sorcerer's Stone by Jirí Novák, Returned Date: 11/14/2024 8:47:43 AM"
+    ]
+  },
+  {
+    "BorrowedBook": {
+      "Title": "To Kill a Mockingbird",
+      "Author": "Harper Lee",
+      "ISBN": "978-0061120084",
+      "Year": 1960,
+      "Genres": [
+        "Fiction",
+        "Drama"
+      ],
+      "IsAvailable": false
+    },
+    "Borrower": {
+      "FirstName": "Karel",
+      "LastName": "Dvořák",
+      "LibraryCardNumber": "19-3021"
+    },
+    "BorrowedDate": "2024-11-14T08:38:36.9892309+01:00",
+    "ReturnedDate": null,
+    "LoanHistory": []
+  }
+]
